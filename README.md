@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=header&reversal=false&textBg=false&fontColor=FF138AFE"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=timeAuto&section=header&reversal=false&textBg=false"/>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF138AFE&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+World!+%F0%9F%8C%8E;My+name+is+Beatriz+Machado;Welcome!+%3AD" alt="Typing SVG" /></a>
@@ -23,6 +23,6 @@
  
 
 ![snake gif](https://github.com/INARI18/INARI18/blob/output/github-contribution-grid-snake.svg)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=footer&reversal=false&textBg=false&fontColor=FF138AFE"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=timeAuto&section=footer&reversal=false&textBg=false"/>
 
 
