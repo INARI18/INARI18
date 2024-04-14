@@ -2,9 +2,8 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF138AFE&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+World!+%F0%9F%8C%8E;My+name+is+Beatriz+Machado;Welcome!+%3AD" alt="Typing SVG" /></a>
 </p>
 
-
-
-## ⚙️ &nbsp;GitHub Analytics
+## 
+⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <img width="520em" src="https://github-readme-stats.vercel.app/api?username=INARI18&show_icons=true&theme=radical" alt="INARI18's stats"/>
 <img width="520em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INARI18&layout=compact&theme=radical" alt="INARI18's most languages"/>
@@ -18,6 +17,8 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
+
+##
 
 ![snake gif](https://github.com/INARI18/INARI18/blob/output/github-contribution-grid-snake.svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=timeGradient&section=footer&reversal=false&textBg=false"/>
