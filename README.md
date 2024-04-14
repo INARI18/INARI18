@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, World! 🌎 </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF138AFE&center=true&random=false&width=455&height=70&lines=Hello%2C+World!+%F0%9F%8C%8E;My+name+is+Beatriz+Machado;Welcome!+%3AD)](https://git.io/typing-svg)
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
