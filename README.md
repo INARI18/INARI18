@@ -5,8 +5,8 @@
 ## 
 ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<img width="520em" src="https://github-readme-stats.vercel.app/api?username=INARI18&show_icons=true&theme=radical" alt="INARI18's stats"/>
-<img width="520em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INARI18&layout=compact&theme=radical" alt="INARI18's most languages"/>
+<img width="520em" src="https://github-readme-stats.vercel.app/api?username=INARI18&show_icons=true&theme=midnight-purple" alt="INARI18's stats"/>
+<img width="520em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INARI18&layout=compact&theme=midnight-purple" alt="INARI18's most languages"/>
 </p>
 
 <div style="display: inline_block"><br>
