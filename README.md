@@ -5,7 +5,7 @@
 ##
 
 <a target="blank">
-  <img align="right" height="130" width="325" alt="GIF" src="https://64.media.tumblr.com/cfd02320892f639a6da47e5671c0fcff/tumblr_p6lvcjVQoo1s9fn3ko1_500.gif">
+  <img align="right" height="124" width="325" alt="GIF" src="https://64.media.tumblr.com/cfd02320892f639a6da47e5671c0fcff/tumblr_p6lvcjVQoo1s9fn3ko1_500.gif">
 </a>
 
 - 😸 I’m **Beatriz Machado**
