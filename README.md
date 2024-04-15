@@ -4,16 +4,20 @@
 
 ##
 
+<br/>
 <a target="blank">
-  <img align="right" height="120" width="320" alt="GIF" src="https://64.media.tumblr.com/cfd02320892f639a6da47e5671c0fcff/tumblr_p6lvcjVQoo1s9fn3ko1_500.gif">
+  <img align="right" height="162" width="320" alt="GIF" src="https://64.media.tumblr.com/cfd02320892f639a6da47e5671c0fcff/tumblr_p6lvcjVQoo1s9fn3ko1_500.gif">
 </a>
+<br/>
 
 - 😸 I’m **Beatriz Machado**
 - ✨ 𝙸’𝚖 **20 years** old
 - 🏠 𝙸’𝚖 from **Brazil**
 - 💻 𝙸’𝚖 graduating **Computer Science**
+<br/>
 
 ## 
+
 ⚙️ &nbsp;GitHub Analytics
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=INARI18&show_icons=true&theme=midnight-purple" alt="INARI18's stats" /> 
