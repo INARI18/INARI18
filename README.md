@@ -6,7 +6,7 @@
 
 <br/>
 <a target="blank">
-  <img align="right" height="162" width="320" alt="GIF" src="https://64.media.tumblr.com/cfd02320892f639a6da47e5671c0fcff/tumblr_p6lvcjVQoo1s9fn3ko1_500.gif">
+  <img align="right" height="175" width="340" alt="GIF" src="https://64.media.tumblr.com/cfd02320892f639a6da47e5671c0fcff/tumblr_p6lvcjVQoo1s9fn3ko1_500.gif">
 </a>
 <br/>
 
