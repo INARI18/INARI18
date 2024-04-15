@@ -28,7 +28,7 @@
 
 ##
 
-![snake gif](https://github.com/INARI18/INARI18/blob/output/github-contribution-grid-snake.gif)
+![](https://raw.githubusercontent.com/INARI18/INARI18/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:6C0BA9,100:51087E&section=footer&reversal=false&textBg=false"/>
 
