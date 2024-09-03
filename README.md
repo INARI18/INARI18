@@ -6,7 +6,7 @@
 
 <br/>
 <a target="blank">
-  <img align="right" height="200" width="340" alt="GIF" src="https://i.pinimg.com/originals/74/1d/e8/741de8b68ee5d6924f87f067a370e2c6.gif">
+  <img align="right" height="200" width="320" alt="GIF" src="https://i.pinimg.com/originals/74/1d/e8/741de8b68ee5d6924f87f067a370e2c6.gif"> 
 </a>
 <br/>
 
