@@ -24,7 +24,7 @@
   <img width="43.8%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INARI18&layout=compact&theme=midnight-purple" alt="INARI18's most languages" />
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,cpp,tailwind)](https://skillicons.dev)
 
 ##
 
