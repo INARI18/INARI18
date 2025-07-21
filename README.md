@@ -19,7 +19,7 @@
         </pre>
       </td>
       <td width="40%" align="right">
-        <img height="130" alt="GIF" src="https://media.tenor.com/WV7jfaHeRx0AAAAj/tkthao219-bubududu.gif">
+        <img height="150" alt="GIF" src="https://media.tenor.com/WV7jfaHeRx0AAAAj/tkthao219-bubududu.gif">
       </td>
     </tr>
   </table>
