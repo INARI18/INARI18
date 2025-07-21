@@ -26,16 +26,12 @@
 </div>
 
 ## 
-
-### ⚙️ Tech Stack & Tools
-
+</br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,tailwind" alt="Skills" />
 </p>
 
 ##
-
-### 📈 GitHub Analytics
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
