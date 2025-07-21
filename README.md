@@ -26,7 +26,7 @@
 ## 
 </br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,tailwind,react" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,tailwind" alt="Skills" />
 </p>
 
 ##
