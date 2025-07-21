@@ -10,7 +10,7 @@
 <br/>
 
 <a target="_blank">
-  <img align="right" height="160" alt="GIF" src="https://media.tenor.com/WV7jfaHeRx0AAAAj/tkthao219-bubududu.gif" />
+  <img align="right" height="160" alt="GIF" src="https://media.tenor.com/VheJA-5Ax0gAAAAj/tkthao219-bubududu.gif" />
 </a>
 
 - 😸 I'm **Beatriz Machado**  
