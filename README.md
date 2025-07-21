@@ -9,16 +9,23 @@
 
 <br/>
 
-<a target="_blank">
-  <img align="right" height="160" alt="GIF" src="https://media.tenor.com/VheJA-5Ax0gAAAAj/tkthao219-bubududu.gif" />
-</a>
 
-- 😸 I'm **Beatriz Machado**  
-- ✨ I'm **21 years old**  
-- 🏠 I'm from **Brazil**  
-- 💻 I'm graduating **Computer Science**  
+<table width="100%">
+  <tr>
+    <td style="width: 160px;">
+      <img src="https://media.tenor.com/WV7jfaHeRx0AAAAj/tkthao219-bubududu.gif" alt="GIF" height="160">
+    </td>
+    <td style="padding-left: 15px; vertical-align: top;">
+      <p>
+        - 😸 I'm <b>Beatriz Machado</b><br/>
+        - ✨ I'm <b>21 years old</b><br/>
+        - 🏠 I'm from <b>Brazil</b><br/>
+        - 💻 I'm graduating <b>Computer Science</b>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<br/>
 
 ## 
 
