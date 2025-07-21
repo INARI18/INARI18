@@ -1,21 +1,22 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:6C0BA9,100:51087E&section=header&reversal=false&textBg=false">
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=FAF7E3&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+World!🌎" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=888888&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+World!🌎" alt="Typing SVG" />
+  </a>
 </p>
 
 ##
 
 <br/>
-<a target="blank">
-  <img align="right" height="190" alt="GIF" src="https://drive.google.com/uc?id=1N_D0mTI_sM_xsZor8Ab0oZEIabqDnKiA">
-</a>
-<br/>
 
-<pre>
-- 😸 I'm Beatriz Machado
-- ✨ 𝙸'𝚖 21 years old
-- 🏠 𝙸'𝚖 from Brazil
-- 💻 𝙸'𝚖 graduating Computer Science
-</pre>
+<a target="_blank">
+  <img align="right" height="160" alt="GIF" src="https://media.tenor.com/WV7jfaHeRx0AAAAj/tkthao219-bubududu.gif" />
+</a>
+
+- 😸 I'm **Beatriz Machado**  
+- ✨ I'm **21 years old**  
+- 🏠 I'm from **Brazil**  
+- 💻 I'm graduating **Computer Science**  
 
 <br/>
 
