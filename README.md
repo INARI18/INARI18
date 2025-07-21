@@ -38,10 +38,6 @@
 ### 📈 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -105,12 +101,8 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/INARI18/INARI18/main/assets/bar_graph.png)
-
-
- Last Updated on 21/07/2025 20:53:28 UTC
+ Last Updated on 21/07/2025 21:15:53 UTC
 <!--END_SECTION:waka-->
 
 ##
