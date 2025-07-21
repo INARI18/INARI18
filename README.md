@@ -4,9 +4,7 @@
 </p>
 
 ##
-
-### 😶‍🌫️ About me
-
+</br>
 <div align="center">
   <table>
     <tr>
