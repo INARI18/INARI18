@@ -10,19 +10,24 @@
 </a>
 <br/>
 
+<pre>
 - 😸 I’m **Beatriz Machado**
 - ✨ 𝙸’𝚖 **20 years** old
 - 🏠 𝙸’𝚖 from **Brazil**
 - 💻 𝙸’𝚖 graduating **Computer Science**
+</pre>
+
 <br/>
 
 ## 
 
 ⚙️ &nbsp;GitHub Analytics
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=INARI18&show_icons=true&theme=midnight-purple" alt="INARI18's stats" /> 
   <img width="43.8%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INARI18&layout=compact&theme=midnight-purple" alt="INARI18's most languages" />
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![My Skills](https://skillicons.dev/icons?i=c,python,cpp,tailwind)](https://skillicons.dev)
 
