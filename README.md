@@ -38,6 +38,79 @@
 ### 📈 GitHub Analytics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 51 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+🌆 Daytime                616 commits         ██████████████████░░░░░░░   73.60 % 
+🌃 Evening                121 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+🌙 Night                  54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   236 commits         ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+Tuesday                  320 commits         ██████████░░░░░░░░░░░░░░░   38.23 % 
+Wednesday                34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Thursday                 88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Friday                   50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Saturday                 48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Sunday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+C                        3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/INARI18/INARI18/main/assets/bar_graph.png)
+
+
+ Last Updated on 21/07/2025 20:53:28 UTC
 <!--END_SECTION:waka-->
 
 ##
