@@ -23,10 +23,13 @@
   </table>
 </div>
 
-## 
+##
+
 </br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,tailwind" alt="Skills" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,tailwind&theme=light" />
+  </a>
 </p>
 
 ##
