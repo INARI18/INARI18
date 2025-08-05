@@ -35,7 +35,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 **I'm an Early 🐤** 
 
@@ -71,7 +71,7 @@ Windows                  1 hr 48 mins        ███████████�
 ```
 
 
- Last Updated on 04/08/2025 18:56:12 UTC
+ Last Updated on 05/08/2025 18:58:01 UTC
 <!--END_SECTION:waka-->
 
 ##
