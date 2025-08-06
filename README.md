@@ -35,7 +35,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **I'm an Early 🐤** 
 
@@ -62,16 +62,14 @@ Sunday                   61 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 27 mins        ████████████████████░░░░░   80.48 % 
-Markdown                 18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/08/2025 18:58:01 UTC
+ Last Updated on 06/08/2025 18:54:46 UTC
 <!--END_SECTION:waka-->
 
 ##
