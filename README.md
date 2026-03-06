@@ -49,18 +49,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.17 % 
-Text                     1 hr 45 mins        ████████░░░░░░░░░░░░░░░░░   30.13 % 
-Markdown                 1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.59 % 
+Text                     1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+Markdown                 1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+JavaScript               47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 
 💻 Operating System: 
-Windows                  5 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/03/2026 19:43:53 UTC
+ Last Updated on 06/03/2026 19:10:31 UTC
 <!--END_SECTION:waka-->
 
 ##
