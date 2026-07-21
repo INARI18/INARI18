@@ -11,7 +11,7 @@
       <td width="60%">
         <pre>
 - 😸 I'm <b>Beatriz Machado</b>
-- ✨ 21 years old
+- ✨ 22 years old
 - 🏠 From <b>Brazil</b>
 - 💻 Graduating in <b>Computer Science</b>
         </pre>
